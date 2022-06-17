@@ -1,0 +1,13 @@
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\bin\Debug\Exercise3PABDCRUD.exe.config
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\bin\Debug\Exercise3PABDCRUD.exe
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\bin\Debug\Exercise3PABDCRUD.pdb
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.csprojAssemblyReference.cache
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.Form1.resources
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.Properties.Resources.resources
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.csproj.GenerateResource.cache
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.csproj.CoreCompileInputs.cache
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.exe
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.pdb
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.Form2.resources
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.Form3.resources
+C:\Users\ERIK\source\repos\Exercise3PABDCRUD\Exercise3PABDCRUD\obj\Debug\Exercise3PABDCRUD.Form4.resources
